@@ -1,5 +1,6 @@
-# BVH and k-d tree implementation
-### Gary Gurlaskie
+# Ray Tracer w/ K-D Tree & BVH Implementation
+
+Take a look at the [report](https://github.com/garyg1/ray-tracer/blob/master/report/report.pdf).
 
 ## Environment
 This program was developed and tested on Ubuntu 16.04.
